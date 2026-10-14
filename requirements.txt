@@ -1,0 +1,8 @@
+##language
+Python
+
+##Library
+Pandas
+Streamlit
+Plotly
+BytextIO
