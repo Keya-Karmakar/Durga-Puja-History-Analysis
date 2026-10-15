@@ -65,6 +65,7 @@ Durga-Puja-History-Analysis/
 ├── Dashboard.py
 ├── Durga_Puja_Historical_Data.csv
 ├── Durga_Puja_Historial_Data.xlsx
+├── Dashboard_View.pdf
 ├── requirements.txt
 └── README.md
 ```
